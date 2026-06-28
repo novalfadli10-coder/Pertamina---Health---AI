@@ -5,3 +5,5 @@ __pycache__/
 venv/
 logs/
 streamlit*.log
+frontend/.env
+frontend/node_modules/
